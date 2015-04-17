@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Coffee App</string>
+    <string name="error_text">Something went wrong&#8230;</string>
+    <string name="image_view_content_description">Coffee list image</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <string name="action_share">SHARE</string>
+
+</resources>

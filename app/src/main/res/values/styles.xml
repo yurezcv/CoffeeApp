@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background_material_light</item>
+        <item name="android:colorAccent">@color/accent_orange</item>
+        <item name="android:colorControlHighlight">@color/accent_orange</item>
+        <item name="android:colorControlActivated">@color/control_activated</item>
+
+    </style>
+
+</resources>
